@@ -29,7 +29,7 @@ export default class Explore extends React.Component {
     let limit = parseInt(FlowRouter.getQueryParam('limit'), 10);
     if (!limit) {
 			// Default limit
-      limit = 6;
+      limit = 10;
     }
     let category = FlowRouter.getQueryParam('category');
     if (!category) {
