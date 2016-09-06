@@ -8,7 +8,7 @@ Meteor.startup(() => {
   if (Meteor.users.find().count() === 0) {
     Accounts.createUser({
       username: 'rdagger',
-      email: 'rdagger68@gmail.com',
+      email: 'rdagger@gmail.com',
       password: 'password',
     });
 
