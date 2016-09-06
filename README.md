@@ -8,3 +8,5 @@ React implementation includes:
 * User profile avatar uploading and cropping
 * Database searching, filtering and pagination
 
+_Status:_  Back-end functional, front-end awaiting design clean up.
+
