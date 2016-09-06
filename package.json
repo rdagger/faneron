@@ -1,0 +1,18 @@
+{
+  "name": "faneron",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "bcrypt": "^0.8.7",
+    "marked": "^0.3.5",
+    "material-ui": "^0.15.0-beta.2",
+    "meteor-node-stubs": "~0.2.0",
+    "react": "^15.0.2",
+    "react-addons-pure-render-mixin": "^15.0.2",
+    "react-dom": "^15.0.2",
+    "react-mounter": "^1.2.0",
+    "react-tap-event-plugin": "^1.0.0"
+  }
+}

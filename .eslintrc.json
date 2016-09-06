@@ -1,0 +1,31 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 6,
+    "sourceType": "module"
+  },
+  "plugins": [
+    "meteor"
+  ],
+  "extends": [
+    "airbnb",
+    "plugin:meteor/recommended"
+  ],
+  "rules": {
+    "func-names": [0],
+    "import/no-unresolved": [
+      2, { "ignore": ["^meteor/"] }
+    ],
+    "meteor/eventmap-params": [
+      2,
+      {
+        "eventParamName": "event",
+        "templateInstanceParamName": "instance"
+      }
+    ],
+    "meteor/template-names": [0],
+    "no-underscore-dangle": [0],
+    "no-use-before-define": [0],
+    "react/jsx-boolean-value": [0],
+    "space-before-function-paren": [1, {"anonymous": "never", "named": "never"}]
+  }
+}

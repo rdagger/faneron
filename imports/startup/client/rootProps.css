@@ -1,0 +1,19 @@
+.root-props {
+	position:absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100vh;
+	margin: 0px;
+	padding: 0px;
+	background: White;
+}
+
+.root-props a:link, a:visited {
+	text-decoration:none;
+	color: #006064;
+}
+
+.root-props a:hover {
+	color: #E64A19;
+}
