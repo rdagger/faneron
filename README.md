@@ -1,6 +1,5 @@
-# faneron ![logo](https://s3-us-west-2.amazonaws.com/faneron/images/logo.png "logo")
+![logo](https://s3-us-west-2.amazonaws.com/faneron/images/logo.png "logo")  # faneron
 
-Reference-style: 
 Online community space for independent game developers using React, Meteor and Material UI.
 
 React implementation includes:
