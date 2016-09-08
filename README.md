@@ -7,5 +7,6 @@ React implementation includes:
 * Markdown editor with preview
 * User profile avatar uploading and cropping
 * Database searching, filtering and pagination
+* AWS image storage
 
 _Status:_  Back-end mostly functional, front-end awaiting design clean up.
