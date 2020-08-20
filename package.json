@@ -5,7 +5,7 @@
     "start": "meteor run"
   },
   "dependencies": {
-    "bcrypt": "^5.0.0"",
+    "bcrypt": "^5.0.0",
     "marked": "^0.3.5",
     "material-ui": "^0.15.0-beta.2",
     "meteor-node-stubs": "~0.2.0",
